@@ -13,7 +13,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiCit&theme=radical&hide_langs_below=1&layout=compact" />
  
 
-###Contact: &nbsp;
+**Contact: &nbsp;**
 
 <a href="https://discord.gg/VRADrBEjKC">
   <img align="left" alt="Discord Server" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -25,4 +25,4 @@
 
 
 
-###**Have a great day or night idk
+### Have a great day or night idk
