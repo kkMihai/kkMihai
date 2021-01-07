@@ -20,8 +20,7 @@
 </a>
 <a href="https://twitter.com/Mihai_Cit">
   <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> &nbsp;
 
 
-&nbsp;
 __**Have a great day or night idk**__
