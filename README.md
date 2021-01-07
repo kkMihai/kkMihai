@@ -3,8 +3,7 @@
 - **I'm a passionate programmer from România 🇹🇩**
 - 💻 I’m currently learning HTML, CSS
 - 💬 Ask me about anything [here](https://discord.gg/dev)
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water
 
 **Stats: &nbsp;**
 
