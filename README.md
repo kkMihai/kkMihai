@@ -2,7 +2,7 @@
 
 ### I'm hapyy to see you here! &nbsp;
 
-I'm a passionate programmer from România 🇹🇩
+**I'm a passionate programmer from România 🇹🇩**
 - 💻 I’m currently learning HTML, CSS
 - 💬 Ask me about anything [here](https://discord.gg/dev)
 - 🥅 2020 Goals: Contribute more to Open Source projects
