@@ -17,7 +17,7 @@
 
 <a href="https://discord.gg/VRADrBEjKC">
 
-  <img align="right" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="r" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 </a>
 
