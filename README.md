@@ -1,1 +1,34 @@
-OYzbZUGdgx+OTXgLnJc2jEewR9hJnq3Mu3q9VhhDypDYGiIAWjfxDi8g/7Xmv9QSyApkd/Pijrwt3uJ91qynCoVNfkrZaytT+8J92xClm+2F8sUbOsCWBY38e85L3DIgStYWzZydI47to1ZOTLe486lJY8LxAF2FqIi91JTRsomRKlLDoyJhcU3+viFScXnalBY4MD8hHCdHV3knQkmDnmk8BhPLavmj1mrnZHsHxxM6Sv++n3nToN93tjPj5xcXJZGFXljZtX27OZ9k06kYX/8y4rU9Ji2KZOiKk6QTczkqJvvNGSTGru3iQalPHGkC1Tq4Cro0a/d5bwtGrhoqB6aXvCLh5aoRNAAZZdyPv1SpFI6/6zegkTqS+cWsk709Q47LE0xwoehAhTexS6ZdBjkyRujP2kNCtPpwC4DvXtyDA3BMYW347qzzIQ5eNgNti/2h2XniFrp1wnlTKpVk0dZT6kJ5mrqbcOAi0wUuwjO46H5Gwc/toh933mOO/zO1RXtGVzzv298TSHtS1RuQAIpBYYE5I8nRjSBYBQJMrUazlhGPUSt6wyj839sqd3KSExirTmUi2d/JUzKYe6WHq8l0IVuJ3gUwGIsGcPhaGrv1d7I6VBkQoHUbhym5lCr32HIRKQKomQu5eziJ4Ppq9KPq5qvNyVEz6+uvbK6txhPmuiGGWzmRQS9dt0SFzlNGt9iz44TapPAWbFxAlKx26pq62EFK7ClrJOEs/yfwdUnGKdsPPuOXSG46ODo1BuUAv1evrjpx450b2o/NLdyXT+Y1+RVBsaCbDcpaE9Iy0vd9dIl3GsW+0WemFTztrHhMeVCFxK0PvRv7gtnlo4vDJzPNVPeuZqMpgOppOet1YUCSjBCB+hlIZEI8SalftjvEFJHImpbBmbtotEJH16TxoDO0TPuIolde/iKi2LcHZg4+FwHWG9bhxsT8A47bIaFFhwZ4bAkObrPgLcy9kLwsLiQ5k61DEEQGUqgQMej9I04OvmSCQ9z2jgUdnlUy9Hbv+VWSAaknJKdy8GRZ20v/TNn9IADITHaE7VQG0pIg/st1DtlEH/bFfVBuA2LgsEtpI/20AsUNyspglfMZdwK7dJ+8KrtOO3ydXXarHCtS+t//YO/KnuXyD0rvVQEjj6jbwQvt3j4dGJT+9XnXM0Btw5/ZLP9U49cKlfQ0GBHYkQJG1JDvpjrwngb+tdENq7vEkImaXATX8GM9M0iiD5KWQ45QXRQ99FHpiko0Ikg086aNGIakTe89jpYVTBhTP2gnIQ5HZaoN5qwpjvTYRBfVqOs6jFXm7zYYCADpeyKpLsOcnQhxHsE4xJ+X0IMIbHFkunE5jADzLjjX7eICrgbMWg==
+### hi there, i'm Mihai! 👋 &nbsp;
+
+- **I'm a passionate programmer from România 🇹🇩**
+
+- **💻 I’m currently learning HTML, CSS**
+
+- **🖤💚 i like ALOT Dark Theme is cool and also i like color Green :O**
+
+- **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
+
+- **📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
+
+**Stats: &nbsp;**
+
+<p align="center">
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MihaiCit&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
+
+**Contact: &nbsp;**
+
+<a href="https://discord.gg/VRADrBEjKC">
+
+  <img align="left" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+
+</a>
+
+<a href="https://twitter.com/MihaiCit">
+
+  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
+</a> &nbsp; 
+
+### Have a great day or night idk
+
