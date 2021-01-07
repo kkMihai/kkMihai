@@ -22,4 +22,6 @@
   <img align="left" alt="Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-### Goodbye <3
+
+
+## Have a great day or night idk
