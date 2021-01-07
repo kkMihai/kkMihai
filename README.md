@@ -1,9 +1,9 @@
 ### hi there, i'm Mihai! 👋 &nbsp;
 
 - **I'm a passionate programmer from România 🇹🇩**
-- 💻 I’m currently learning HTML, CSS
-- 💬 Ask me about anything [here](https://discord.gg/dev)
-- 📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water
+- **💻 I’m currently learning HTML, CSS**
+- **💬 If you have any question for me join [here](https://discord.gg/dev)**
+- **📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
 
 **Stats: &nbsp;**
 
