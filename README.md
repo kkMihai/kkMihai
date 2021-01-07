@@ -1,4 +1,4 @@
-### hi there uhhh.. , i'm Mihai! 👋
+### hi there, i'm Mihai! 👋
 
 <br />
 
@@ -18,7 +18,7 @@
 <a href="https://discord.gg/VRADrBEjKC">
   <img align="left" alt="Discord Server" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/Mihai_Cit">
+<a href="https://twitter.com/MihaiCit">
   <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp; 
 
