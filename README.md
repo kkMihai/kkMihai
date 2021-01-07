@@ -6,13 +6,13 @@
 - **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
 - **📌 2021 Goals: Grow my Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
 
-**Stats:  **
+**Stats:  &nbsp;**
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MihaiCit&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
 
 
-**Contact:  **
+**Contact:  &nbsp;**
 
 <a href="https://discord.gg/VRADrBEjKC">
 <img align="left" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
