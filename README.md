@@ -2,7 +2,7 @@
 
 - **I'm a passionate programmer from România 🇹🇩**
 - **💻 I’m currently learning HTML, CSS**
-- **🖤💚 i like ALOT Dark Theme is cool and also i like color Green :O**
+- **🖤 i like ALOT Dark Theme is cool and good for eyes i recommend it lmao**
 - **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
 - **📌 2021 Goals: Grow my Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
 
