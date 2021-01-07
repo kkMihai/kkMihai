@@ -11,10 +11,7 @@
 - **📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
 
 **Stats: &nbsp;**
-
-<p align="center">
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MihaiCit&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MihaiCit&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
 
 **Contact: &nbsp;**
 
