@@ -2,7 +2,7 @@
 
 - **I'm a passionate programmer from România 🇹🇩**
 - **💻 I’m currently learning HTML, CSS**
-- **💬 If you have any question for me join [here](https://discord.gg/dev)**
+- **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
 - **📌 2021 Goals: Grow my  Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
 
 **Stats: &nbsp;**
