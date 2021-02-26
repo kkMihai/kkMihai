@@ -14,7 +14,7 @@
 
 **Contact:  &nbsp;**
 
-<a href="https://discord.gg/VRADrBEjKC">
+<a href="https://discord.gg/uCYnJZNWgK">
 <img align="left" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/MihaiCit">
