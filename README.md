@@ -1,10 +1,10 @@
 ### hi there, i'm Mihai! 👋  
 
 - **I'm a programmer from România 🇹🇩**
-- **💻 I’m currently learning HTML, CSS**
+- **💻 I’m currently learning **
 - **🖤 i like A LOT Dark Theme is cool and good for eyes i recommend it lmao**
 - **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
-- **📌 2021 Goals: Grow my Discord Bot to be on 500 servers, have a girlfriend lmfao, drink water**
+- **📌 2021 Goals: Grow my Discord Bot to be on 500 servers, have a girlfriend lmfao, ~~drink water~~**
 
 **Stats:  &nbsp;**
 
