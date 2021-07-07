@@ -4,7 +4,7 @@
 - **💻 I’m currently learning CSS**
 - **🖤 i like A LOT Dark Theme is cool and good for eyes i recommend it lmao**
 - **💬 If you have any question for me join my discord [here](https://discord.gg/VRADrBEjKC)**
-- **📌 2021 Goals: Grow my Discord Bot to be on 500 servers, have a girlfriend lmfao, ~~drink water~~**
+- **📌 2021 Goals: Grow my Discord Bot to be on 1,000 servers, ~~have a girlfriend lmfao~~, ~~drink water~~**
 
 **Stats:  &nbsp;**
 
@@ -14,7 +14,7 @@
 
 **Contact:  &nbsp;**
 
-<a href="https://discord.gg/uCYnJZNWgK">
+<a href="https://dsc.gg/talus">
 <img align="left" alt="Discord Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/MihaiCit">
