@@ -9,7 +9,7 @@
 **Stats:  &nbsp;**
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MihaiCit&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkMihai&show_icons=true&theme=radical&line_height=17" alt="github stats"/>
 
 
 **Contact:  &nbsp;**
