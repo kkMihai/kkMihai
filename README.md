@@ -1,7 +1,7 @@
 ### hi there, i'm Mihai! 👋  
 
 - **I'm a programmer from Romania 🇹🇩**
-- **💻 I’m currently learning CSS**
+- **💻 I’m currently learning Python**
 - **🖤 i like A LOT Dark Theme is cool and good for eyes i recommend it lmao**
 - **💬 If you have any question for me join my discord [here](https://dsc.gg/talus)**
 
