@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NextJS Framework**
 
-- 👨‍💻 All of my projects are available at [mihaidev.me](mihaidev.me)
+- 👨‍💻 All of my projects are available at [kkmihai.is-cool.dev](https://kkmihai.is-cool.dev/)
 
-- 📫 How to reach me **contact@mihaidev.me (dont try to contact me i dont respond lol)**
+- 📫 How to reach me **kkmihai@proton.me **
 
 - ⚡ Fun fact **a fact can be a fact**
 
