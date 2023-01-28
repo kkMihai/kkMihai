@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [kkmihai.is-cool.dev](https://kkmihai.is-cool.dev/)
 
-- 📫 How to reach me **kkmihai@proton.me **
+- 📫 How to reach me **kkmihai@proton.me**
 
 - ⚡ Fun fact **a fact can be a fact**
 
