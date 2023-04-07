@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihai</h1>
-<h3 align="center">A lazy Full Stack Developer from Romania ☜(ﾟヮﾟ☜)</h3>
+<h3 align="center"> Full Stack Developer ☜(ﾟヮﾟ☜)</h3>
 
 - 🔭 I’m currently working on nothing
 
