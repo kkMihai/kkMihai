@@ -12,7 +12,4 @@
 - ⚡ Fun fact **a fact can be a fact**
 
 
-<iframe src="https://kkmihai.is-cool.dev/" style="border:0px #ffffff none;" name="portfolio" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1200px" allowfullscreen></iframe>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkMihai&show_icons=true&theme=radical&line_height=17" alt="github stats"/></p>
