@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently learning **NextJS Framework**
+- 🌱 I’m currently learning to use **Godot v4 ( Game Engine )**
 
 - 👨‍💻 All of my projects are available at [kkmihai.is-cool.dev](https://kkmihai.is-cool.dev/)
 
