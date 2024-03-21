@@ -6,7 +6,6 @@ Web Developer & Web Designer
 *   🌍  I'm based in Romania
 *   🖥️  See my portfolio at [kkmihai.is-cool.dev](http://kkmihai.is-cool.dev/)
 *   ✉️  You can contact me at [kkmihai@proton.me](mailto:kkmihai@proton.me)
-*   🚀  I'm currently working on [EcoBarterFly - Bartering Site](http://ecobarterfly.com)
   
 <a href="https://www.github.com/kkmihai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/kkmihai?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" />
