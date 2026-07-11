@@ -65,17 +65,6 @@ impl Mihai {
 
 <br/>
 
-## 🌐 Find me elsewhere
-
-<div align="center">
-
-<a href="https://kkmihai.is-cool.dev"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://x.com/kkmihai1337"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 *i wrote this readme in the most goofy way lmfao*
