@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://kkmihai.is-cool.dev"><img src="https://img.shields.io/badge/Portfolio-kkmihai.is--cool.dev-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=22272e" /></a>
-<a href="https://x.com/kkmihai1337"><img src="https://img.shields.io/badge/kkmihai-a855f7?style=for-the-badge&logoColor=white&logo=x&&labelColor=22272e" /></a>
+<a href="https://x.com/kkmihai"><img src="https://img.shields.io/badge/kkmihai-a855f7?style=for-the-badge&logoColor=white&logo=x&&labelColor=22272e" /></a>
 <a href="https://github.com/kkmihai"><img src="https://img.shields.io/github/followers/kkmihai?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 
 </div>
